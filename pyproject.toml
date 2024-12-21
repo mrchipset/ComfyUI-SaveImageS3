@@ -1,0 +1,15 @@
+[project]
+name = "comfyui-saveimages3"
+description = "This extension offers a custom node to save image to S3-compatible oss."
+version = "1.0.0"
+license = {file = "LICENSE"}
+dependencies = ["minio"]
+
+[project.urls]
+Repository = "https://github.com/mrchipset/ComfyUI-SaveImageS3"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = ""
+DisplayName = "ComfyUI-SaveImageS3"
+Icon = ""
