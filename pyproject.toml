@@ -10,6 +10,6 @@ Repository = "https://github.com/mrchipset/ComfyUI-SaveImageS3"
 #  Used by Comfy Registry https://comfyregistry.org
 
 [tool.comfy]
-PublisherId = ""
+PublisherId = "zouyu"
 DisplayName = "ComfyUI-SaveImageS3"
 Icon = ""
